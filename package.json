@@ -46,6 +46,13 @@
 		"xo": "^0.25.3"
 	},
 	"browser": "browser.js",
+	"module": "index.mjs",
+	"exports": {
+		".": {
+			"require": "./index.js",
+			"import": "./index.mjs"
+		}
+	},
 	"xo": {
 		"envs": [
 			"node",
