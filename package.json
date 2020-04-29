@@ -1,14 +1,12 @@
 {
-	"name": "public-ip",
+	"name": "@d-fischer/public-ip",
 	"version": "4.0.1",
 	"description": "Get your public IP address - very fast!",
 	"license": "MIT",
-	"repository": "sindresorhus/public-ip",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "d-fischer/public-ip",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Daniel Fischer",
+		"email": "daniel@d-fischer.dev"
 	},
 	"engines": {
 		"node": ">=8"
