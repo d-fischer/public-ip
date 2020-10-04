@@ -1,6 +1,6 @@
 {
 	"name": "@d-fischer/public-ip",
-	"version": "4.0.2",
+	"version": "4.0.3",
 	"description": "Get your public IP address - very fast!",
 	"license": "MIT",
 	"repository": "d-fischer/public-ip",
